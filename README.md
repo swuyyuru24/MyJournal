@@ -1,2 +1,2 @@
 # MyJournal
-Customisable journal app for your every day journalling
+Customisable journal app for your every day journaling

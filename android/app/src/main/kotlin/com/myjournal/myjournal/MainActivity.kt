@@ -1,0 +1,5 @@
+package com.myjournal.myjournal
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
